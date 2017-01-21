@@ -1,4 +1,4 @@
-###Basic Project
+###Classes Project
 #Java Application
 
 * JDK 7
